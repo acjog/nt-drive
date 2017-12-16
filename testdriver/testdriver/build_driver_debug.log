@@ -1,0 +1,4 @@
+BUILD: Examining d:\project\testdriver\testdriver directory for files to compile.
+1>Compiling and Linking d:\project\testdriver\testdriver *************
+1>'nmake.exe /nologo BUILDMSG=Stop. /S /C -i BUILD_PASS=PASS2 LINKONLY=1 NOPASS0=1 MAKEDIR_RELATIVE_TO_BASEDIR='
+1>BUILDMSG: _NT_TARGET_VERSION SET TO WS03
